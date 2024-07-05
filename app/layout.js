@@ -1,8 +1,5 @@
 import './globals.css';
-<<<<<<< HEAD
-=======
 import MainHeader from "@/components/main-header/main-header";
->>>>>>> edfb6ed (Add error.js to archieve filter page and throw error when filter invalid)
 
 export const metadata = {
   title: 'Next.js Page Routing & Rendering',

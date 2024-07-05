@@ -7741,25 +7741,9 @@
       <change afterPath="$PROJECT_DIR$/../01-starting-project/public/images/news/couple-cooking.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../01-starting-project/public/images/news/hiking.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../01-starting-project/public/images/news/landscape.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/01-starting-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/archive/@archive/[[...filter]]/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/archive/@archive/[[...filter]]/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/archive/@latest/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/archive/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/news/[slug]/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/news/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/not-found.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/main-header/main-header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/news/news-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy-news.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/news.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-starting-project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-starting-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/server/app/news/[id]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/.next/server/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/static/chunks/app/news/[id]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/.next/static/chunks/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/static/webpack/719460737e33352e.webpack.hot-update.json" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/.next/static/webpack/7855c35bdd42eb39.webpack.hot-update.json" afterDir="false" />
@@ -7767,10 +7751,7 @@
       <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.a1131dee1acd03b5.hot-update.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/.next/static/webpack/webpack.7855c35bdd42eb39.hot-update.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/types/app/news/[detail]/page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/.next/types/app/page.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/types/app/news/[id]/page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/.next/types/app/news/page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/news/[id]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-starting-project/app/news/[id]/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../starting-project.zip" beforeDir="false" />
     </list>
@@ -7781,7 +7762,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "Rebasing main",
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)",
     "ts.external.directory.path": "/snap/webstorm/387/plugins/javascript-plugin/jsLanguageServicesImpl/external"
   }
 }]]></component>
