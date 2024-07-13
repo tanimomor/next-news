@@ -2,6 +2,8 @@
 
 NextNews is a web application built using Next.js that provides a platform for reading and filtering news articles. Users can view all news, filter news by year and month, and see the latest news at the bottom of the page.
 
+https://github.com/user-attachments/assets/52aca64e-c3af-4d0b-8227-d98a61ee2a53
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -31,12 +33,6 @@ NextNews is designed to offer a seamless and efficient way to read and filter ne
 - **Archive Page**: A page that allows users to filter news articles by year and month. Selecting a year shows news from that year, and selecting a month within a year shows news from that specific month and year.
 - **Latest News**: A section at the bottom of the news page displaying the latest news articles.
 
-
-## Demo
-
-To see how NextLevel Food works, watch our demo video:
-
-https://github.com/user-attachments/assets/52aca64e-c3af-4d0b-8227-d98a61ee2a53
 
 ## Installation
 
