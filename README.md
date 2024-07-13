@@ -36,6 +36,7 @@ NextNews is designed to offer a seamless and efficient way to read and filter ne
 
 To see how NextLevel Food works, watch our demo video:
 
+https://github.com/user-attachments/assets/52aca64e-c3af-4d0b-8227-d98a61ee2a53
 
 ## Installation
 
