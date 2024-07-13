@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/52aca64e-c3af-4d0b-8227-d98a61ee2a53
 - [Introduction](#introduction)
 - [Features](#features)
 - [Pages](#pages)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Dependencies](#dependencies)
